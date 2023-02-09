@@ -21,6 +21,8 @@ rm -rf USERNAME
 
 git clone https://github.com/MAHADI-143/USERNAME.git
 
+git pull
+
 cd USERNAME
 
 python3 MAHADI.py
